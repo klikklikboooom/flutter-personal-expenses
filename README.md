@@ -1,6 +1,6 @@
-# personal_expenses
+# Personal Expenses App
 
-A new Flutter project.
+A flutter app where you can store your expenses
 
 ## Getting Started
 
